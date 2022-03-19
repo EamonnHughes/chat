@@ -1,3 +1,1 @@
-object Chat extends App{
-
-}
+object Chat extends App {}
